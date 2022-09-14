@@ -1,0 +1,15 @@
+/Users/nicocook/Documents/Mathment/bin/Debug/net6.0/Mathment
+/Users/nicocook/Documents/Mathment/bin/Debug/net6.0/Mathment.deps.json
+/Users/nicocook/Documents/Mathment/bin/Debug/net6.0/Mathment.runtimeconfig.json
+/Users/nicocook/Documents/Mathment/bin/Debug/net6.0/Mathment.dll
+/Users/nicocook/Documents/Mathment/bin/Debug/net6.0/Mathment.pdb
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/Mathment.csproj.AssemblyReference.cache
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/Mathment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/Mathment.AssemblyInfoInputs.cache
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/Mathment.AssemblyInfo.cs
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/Mathment.csproj.CoreCompileInputs.cache
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/Mathment.dll
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/refint/Mathment.dll
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/Mathment.pdb
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/Mathment.genruntimeconfig.cache
+/Users/nicocook/Documents/Mathment/obj/Debug/net6.0/ref/Mathment.dll
